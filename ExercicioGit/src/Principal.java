@@ -7,6 +7,7 @@ public class Principal {
 	 
 	 System.out.println("Alisson Aqui!");
 	 System.out.println("tchau");
+	 System.out.println("tchau");
 	}
 
 }
